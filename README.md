@@ -35,7 +35,7 @@ Installation & Setup
 
 Clone the repository:
 
-git clone [https://github.com/your-username/sahay.git](https://github.com/bodhisathwik/project-sahay.git)
+git clone [https://github.com/bodhisathwik/project-sahay.git]
 cd project-sahay
 
 Install NPM packages:
