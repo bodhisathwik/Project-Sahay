@@ -4,7 +4,7 @@ const callGeminiAPI = async (payload: any) => {
   const apiKey = process.env.GEMINI_API_KEY
 
   if (!apiKey) {
-    console.error("AIzaSyDP6tiA-3TRm3zYFxy3fe3iZVcT6Mpu638")
+    console.error("")
     return {
       content: {
         parts: [
